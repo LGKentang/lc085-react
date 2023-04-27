@@ -3,10 +3,10 @@
 ## Description
 My web app is called "moviedex" and it's a simple movie search application that allows users to search and save their favorite movies. The frontend of this app is built using React.js.
 
-When a user opens the app, they are presented with a clean and minimalistic interface where they can search or to favorite the movies. Each movie card have their details such as title name, release date, and a favorite button. The favorite button is also present in the movie details
+When a user opens the app, they are presented with a clean and minimalistic interface where they can search or to favorite the movies. Each movie card have their details such as title name, release date, and a favorite button. The favorite button is also present in the movie details.
 
 The app stores the task data on the local storage to save their favorited movies.
-The provider used is axios, using REST API from tmdb (The Movie Database) for the movie data
+The provider used is axios, using REST API from tmdb (The Movie Database) for the movie data.
 
 ## Links
 
@@ -35,4 +35,3 @@ Once the app is running, you can use it to search for your favorite movies and a
 ## Credits
 
 The moviedex app was created by Darren Maverick as part of the React JS Qualification for LC085.
-
